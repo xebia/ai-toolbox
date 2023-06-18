@@ -398,3 +398,5 @@ FodyWeavers.xsd
 *.sln.iml
 
 src/resources/_gen/
+**/.DS_Store
+.DS_Store
