@@ -24,7 +24,7 @@ to create your own real websites with [Docsy](https://docsy.dev))
 {{% /blocks/lead %}}
 
 
-{{% blocks/section color="dark" type="row" %}}
+{{% blocks/section color="2" type="row" %}}
 {{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
 The Goldydocs UI now shows chair size metrics by default.
 

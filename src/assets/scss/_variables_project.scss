@@ -5,7 +5,25 @@ Add styles or override variables from the theme here.
 */
 
 $primary: #6a1d57;
+
 $btn-bg: #ffffff;
 $btn-secondary: #ffffff;
 $secondary: #ffffff;
 
+:root {
+    .text-info {
+        --bs-info-rgb: 255,255,255
+    }   
+    
+    .td-overlay--dark::after{
+        background: rgba(0,0,0,0.3);
+    }
+
+    .mt-md-5{
+        margin-top: 15rem !important;
+    }
+
+    .td-box--2 {
+        background: rgba(247,248,252,1)
+    }
+}
