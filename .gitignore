@@ -431,10 +431,10 @@ go.work
 
 ### Hugo ###
 # Generated files by hugo
-/public/
-/resources/_gen/
-/assets/jsconfig.json
-hugo_stats.json
+/src/public/
+/src/resources/_gen/
+/src/assets/jsconfig.json
+/src/hugo_stats.json
 
 # Executable may be added to repository
 hugo.exe
