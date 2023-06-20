@@ -39,6 +39,6 @@ Have questions or want to discuss something? Join us on **Slack** in the `#ai-to
 
 
 {{% blocks/section %}}
-This is the second section
-{.h1 .text-center}
+*"AI will not replace you. A person using AI will."* - slackgpt
+{.h2 .text-center}
 {{% /blocks/section %}}
