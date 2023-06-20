@@ -397,11 +397,8 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-src/resources/_gen/
 **/.DS_Store
 .DS_Store
-
-
 
 # Created by https://www.toptal.com/developers/gitignore/api/hugo,go,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=hugo,go,visualstudiocode
@@ -422,27 +419,6 @@ src/resources/_gen/
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
-
-# Dependency directories (remove the comment below to include it)
-# vendor/
-
-# Go workspace file
-go.work
-
-### Hugo ###
-# Generated files by hugo
-/src/public/
-/src/resources/_gen/
-/src/assets/jsconfig.json
-/src/hugo_stats.json
-
-# Executable may be added to repository
-hugo.exe
-hugo.darwin
-hugo.linux
-
-# Temporary lock file while building
-/.hugo_build.lock
 
 ### VisualStudioCode ###
 .vscode/*
