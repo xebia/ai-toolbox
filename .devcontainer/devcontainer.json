@@ -8,8 +8,6 @@
 			"NODE_VERSION": "14"
 		}
 	},
-	"workspaceMount": "source=${localWorkspaceFolder}/src,target=/workspace,type=bind",
-	"workspaceFolder": "/workspace",
 
 	"customizations": {
 		"vscode": {
@@ -34,7 +32,7 @@
 		1313
 	],
 
-	"postCreateCommand": "git config --global --add safe.directory /workspace",
+	"postCreateCommand": "git config --global --add safe.directory /workspace/ai-toolbox",
 
 	"remoteUser": "node"
 }
