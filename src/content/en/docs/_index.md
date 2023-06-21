@@ -1,29 +1,12 @@
 ---
-title: Documentation
-linkTitle: Docs
+title: Xebia AI Toolbox Documentation
+linkTitle: Home
 menu: {main: {weight: 20}}
 weight: 20
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+We believe AI can help us if we use it in a responsible way. This means we are careful when working with AI tools regarding client data, privacy and security. We also believe in the power of open source and sharing knowledge. That is why we created this site to share our knowledge and help eachother in our daily work.
 
-This section is where the user documentation for your project lives - all the
-information your users need to understand and successfully use your project.
+This website consits of a couple of parts: Workflows & Tools. The workflows are the actual workflows you can use to get things done. The tools are the tools you can use to get things done. The tools are often used in the workflows.
 
-For large documentation sets we recommend adding content under the headings in
-this section, though if some or all of them don’t apply to your project feel
-free to remove them or add your own. You can see an example of a smaller Docsy
-documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which
-lives in the [Docsy theme
-repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to
-copy its docs section.
-
-Other content such as marketing material, case studies, and community updates
-should live in the [About](/about/) and [Community](/community/) pages.
-
-Find out how to use the Docsy theme in the [Docsy User
-Guide](https://docsy.dev/docs/). You can learn more about how to organize your
-documentation (and how we organized this site) in [Organizing Your
-Content](https://docsy.dev/docs/best-practices/organizing-content/).
+Next to using tools and workflows we also want to share our knowledge on how to use AI in a responsible way. This is why we have a section on Responsible AI.

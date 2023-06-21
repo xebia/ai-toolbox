@@ -1,8 +1,8 @@
-# AI Toolbox
+# Xebia AI Toolbox
 
 > Check out the website [here][1]
 
-There are a lot of AI tools, but how do you actually accomplish any work with them? This project aims to collect as many of your workflows as you want to share.
+There are a lot of AI tools, but how do you actually accomplish any work with them? This project aims to collect as many of your workflows as you want to share with fellow Xebians to help them to be more productive using AI.
 Found a way to capture your thoughts with AI? Write about it! Does it help you with blogging/speaking/writing? Write about it!
 
 ## How to contribute
