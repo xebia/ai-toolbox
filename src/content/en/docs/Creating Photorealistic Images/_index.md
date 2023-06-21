@@ -15,19 +15,41 @@ Do you want to create photorealistic images with Midjourney, but get stuck when 
 
 The steps described on this page were designed by the YouTube channel [AI Foundations][1]. The author created a [video][2] on this subject that improves the Midjourney experience quite a bit.
 
-## Step 1: Add the introduction script to ChatGPT
+## Steps
+
+### Step 1: Add the introduction script to ChatGPT
 
 Download [the script][3] on the original author's website. You can paste this script into ChatGPT, or even SlackGPT. After you've sent the script, the AI assistant will respond with a resounding "YES".
 
-## Step 2: Tell the assistant about your subject
+### Step 2: Tell the assistant about your subject
 
 What kind of picture do you need? I wanted to generate a 'duck with rainbow wings'. SlackGPT responded with:
 > Realistic photograph of a cheerful yellow rubber duck, playfully perched on top of a computer monitor in a cozy office setting, soft ambient lighting, blurred background showcasing office desk and accessories, Nikon D850, 50mm lens, f/1.8, natural light --ar 3:2 --v 5 --q 1
 
-## Step 3: Give the prompt to Midjourney
+### Step 3: Give the prompt to Midjourney
 
 Copy the prompt, and prefix it with `/imagine`. Paste this into Midjourney on Discord and it will generate options for you. Here's the result:
 ![duckies][4]
+
+## Responsible AI
+
+Can I use customer data in this workflow?
+
+- [ ] Yes
+- [ ] No
+- [x] With consent only
+
+Note: All Midjourney prompts and results are publicly visible, unless you have a premium subscription with Stealth Mode enabled.
+
+## Licenses needed
+
+### SlackGPT
+
+You can use this on the Xebia Slack. It's a a great alternative for ChatGPT.
+
+### Midjourney
+
+You need a personal license.
 
 [1]: https://www.youtube.com/@ai-foundations
 [2]: https://www.youtube.com/watch?v=EJez32MtfWU
