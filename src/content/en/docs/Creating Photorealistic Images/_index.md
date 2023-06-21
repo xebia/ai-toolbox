@@ -28,6 +28,7 @@ What kind of picture do you need? I wanted to generate a 'duck with rainbow wing
 
 ### Step 3: Give the prompt to Midjourney
 
+To get started with Midjourney, [start here][5]. Currently, Midjourney is only accessible through Discord.
 Copy the prompt, and prefix it with `/imagine`. Paste this into Midjourney on Discord and it will generate options for you. Here's the result:
 ![duckies][4]
 
@@ -55,3 +56,4 @@ You need a personal license.
 [2]: https://www.youtube.com/watch?v=EJez32MtfWU
 [3]: https://aiwealth.vip/midjourney-training-sheet/
 [4]: ./duckies.png
+[5]: https://docs.midjourney.com/docs/quick-start
