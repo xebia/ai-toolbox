@@ -1,15 +1,21 @@
-# New repository on Xebia GitHub
+# AI Toolbox
 
-Welcome to the Xebia GitHub organization!
+Check out the website [here]:[1]
 
-This organization contains a lot of repos and to keep things organized we kindly ask you to keep the following in mind:
+There are a lot of AI tools, but how do you actually accomplish any work with them? This project aims to collect as many of your workflows as you want to share.
+Found a way to capture your thoughts with AI? Write about it! Does it help you with blogging/speaking/writing? Write about it!
 
-1. Always provide a clear description so that the repo can be recognized in the repository list on GitHub.
-2. Modify this [README.md](./README.md) to provide information about the repo, how to run the code, etc.
-3. Public repos should adhere to our Quality without Compromise value so that the Xebia organization will be a showcase of nice projects to the outside world.
-4. Repositories should be maintained actively (at least bumping dependencies) or else archived/deleted.
+## How to contribute
 
-If your repo does not satisfy these guidelines, you risk the repository to be deleted.
-In the future we plan to implement automatic checking of these guidelines so that abandoned repos will be deleted automatically.
+Start a new branch, open a Codespace and start in `src/docs/`. You can add a new `_index.md` file and start writing. Alternatively, you can clone this repo locally, but a Codespace comes with all the tools installed.
 
-More info about the initiatives to keep our GitHub organization clean, see [xebia-github-admin-scripts](https://www.github.com/xebia/xebia-github-admin-scripts) and #github on [Slack](https://xebia.slack.com).
+If you want to test your changes, you can run:
+
+```sh
+cd src/
+hugo server
+```
+
+If you like your changes, simply shoot in a PR!
+
+[1]: https://xebia.github.io/ai-toolbox/
