@@ -23,7 +23,7 @@ Download [the script][3] on the original author's website. You can paste this sc
 
 ### Step 2: Tell the assistant about your subject
 
-What kind of picture do you need? I wanted to generate a 'duck with rainbow wings'. SlackGPT responded with:
+What kind of picture do you need? I wanted to generate a 'A photo of a rubber duck sitting on a monitor'. SlackGPT responded with:
 > Realistic photograph of a cheerful yellow rubber duck, playfully perched on top of a computer monitor in a cozy office setting, soft ambient lighting, blurred background showcasing office desk and accessories, Nikon D850, 50mm lens, f/1.8, natural light --ar 3:2 --v 5 --q 1
 
 ### Step 3: Give the prompt to Midjourney
