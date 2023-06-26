@@ -7,6 +7,16 @@ description: >
   How can you combine ChatGPT and Midjourney to create photorealistic images?
 ---
 
+|Responsible AI Checklist|
+|---|---|
+|Can be used with customer data input| ❌ No this tool is not safe to use|
+|Can output be used at customer | ❓ TODO check this|
+|Can be used with Xebia Internal secret data| ❌ No this tool is not safe to use|
+|Can output be used commercially by Xebia | ❓ TODO check this|
+|Is data being stored in the region you use it | ❌ No, no policy on this|
+|Do we have a Xebia license / managed solution for this tool | ❌ No|
+|Tools used in workflow | [Midjourney](/docs/ai-tools/midjourney), [ChatGPT](/docs/ai-tools/chatgpt) / [SlackGPT](/docs/ai-tools/slackgpt) |
+
 ## Introduction
 
 Do you want to create photorealistic images with Midjourney, but get stuck when you need to specify your prompt? You can teach ChatGPT/SlackGPT to generate prompts for you. The generated prompt include style, camera type and even camera settings. This document describes the process, but the initial script can be changed to create other styles of images.
@@ -32,25 +42,16 @@ To get started with Midjourney, [start here][5]. Currently, Midjourney is only a
 Copy the prompt, and prefix it with `/imagine`. Paste this into Midjourney on Discord and it will generate options for you. Here's the result:
 ![duckies][4]
 
-## Responsible AI
-
-Can I use customer data in this workflow?
-
-- [ ] Yes
-- [ ] No
-- [x] With consent only
-
 Note: All Midjourney prompts and results are publicly visible, unless you have a premium subscription with Stealth Mode enabled.
 
 ## Licenses needed
 
 ### SlackGPT
-
 You can use this on the Xebia Slack. It's a a great alternative for ChatGPT.
 
 ### Midjourney
-
 You need a personal license.
+
 
 [1]: https://www.youtube.com/@ai-foundations
 [2]: https://www.youtube.com/watch?v=EJez32MtfWU
