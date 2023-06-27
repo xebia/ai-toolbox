@@ -1,12 +1,12 @@
 {
   "name": "docsy-example-site",
   "version": "0.7.0-dev.0-unreleased",
-  "description": "Xebia AI Toolkit",
-  "repository": "github:xebia/ai-toolkit",
-  "homepage": "https://ai-toolkit.xebia.dev",
+  "description": "Xebia AI Toolbox",
+  "repository": "github:xebia/ai-toolbox",
+  "homepage": "https://ai-toolbox.xebia.dev",
   "author": "Xebia",
   "license": "Apache-2.0",
-  "bugs": "https://github.com/xebia/ai-toolkit/issues",
+  "bugs": "https://github.com/xebia/ai-toolbox/issues",
   "spelling": "cSpell:ignore HTMLTEST precheck postbuild -",
   "scripts": {
     "_build": "npm run _hugo-dev",

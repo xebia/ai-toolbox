@@ -21,17 +21,17 @@ We believe AI can help us if we use it in a responsible way. This means we are c
 
 {{% blocks/section color="2" type="row" %}}
 {{% blocks/feature icon="fa-lightbulb" title="Start learning now!" url="docs" %}}
-Xebia AI Toolkit is a set of workflows created by and for Xebians to help eachother in their daily work becoming more productive using AI tools.
+Xebia AI Toolbox is a set of workflows created by and for Xebians to help eachother in their daily work becoming more productive using AI tools.
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/xebia/ai-toolkit" %}}
-We do a [Pull Request](https://github.com/xebia/ai-toolkit/pulls) contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/xebia/ai-toolbox" %}}
+We do a [Pull Request](https://github.com/xebia/ai-toolbox/pulls) contributions workflow on **GitHub**. New users are always welcome!
 {{% /blocks/feature %}}
 
 
 {{% blocks/feature icon="fab fa-slack" title="Discuss on Slack!" %}}
-Have questions or want to discuss something? Join us on **Slack** in the `#ai-toolkit` channel.
+Have questions or want to discuss something? Join us on **Slack** in the `#ai-toolbox` channel.
 {{% /blocks/feature %}}
 
 
