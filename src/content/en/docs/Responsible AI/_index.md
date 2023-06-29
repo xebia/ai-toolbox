@@ -14,3 +14,4 @@ In our [Tools](/docs/AI-Tools) section we describe which tools are safe to use, 
 
 ## Always ask consent from your customer
 First rule for using any AI tool when working for your customer is to have consent from your customer in using these tools. Again the [Tools](/docs/AI-Tools) section has a description on which tools are safe and how to convince your customer to use them by providing proof to them of how the data is used/processed and what the risks are.
+   
