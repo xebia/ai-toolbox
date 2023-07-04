@@ -9,11 +9,11 @@ description: >
 
 |Responsible AI Checklist|
 |---|---|
-|Can be used with customer data input| ❌ No this tool is not safe to use|
-|Can output be used at customer | ❓ TODO check this|
+|Can be used with customer data input| ❌ No |
+|Can the output be used at customer | ❓ TODO check this|
 |Can be used with Xebia Internal secret data| ✅ yes|
-|Can output be used commercially by Xebia | ✅ yes |
-|Is data being stored in the region you use it | ❌ No, no policy on this|
+|Can the output be used commercially by Xebia | ✅ yes |
+|Is data being stored in the region you use it | ❌ No|
 |Do we have a Xebia license / managed solution for this tool | ✅ [SlackGPT](/docs/ai-tools/slackgpt)|
 |Tools used in workflow | [SlackGPT](/docs/ai-tools/slackgpt) |
 
