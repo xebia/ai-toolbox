@@ -23,7 +23,8 @@
 				"streetsidesoftware.code-spell-checker",
 				"fivethree.vscode-hugo-snippets",
 				"eamodio.gitlens",
-				"yzhang.markdown-all-in-one"
+				"yzhang.markdown-all-in-one",
+				"znck.grammarly"
 			]
 		}
 	},

@@ -23,9 +23,9 @@ Add this checklist to every workflow / tool page you are creating so people have
 |Responsible AI Checklist|
 |---|---|
 |Can be used with customer data| ℹ️ Ask Consent / ✅ Yes this tool is safe to use / ❌ No this tool is not safe to use|
-|Can output be used at customer| ✅ Yes / ❌ No |
+|Can the output be used at customer| ✅ Yes / ❌ No |
 |Can be used with Xebia Internal secret data| ✅ Yes this tool is safe to use / ❌ No this tool is not safe to use|
-|Can output be used commercially by Xebia| ✅ Yes / ❌ No |
+|Can the output be used commercially by Xebia| ✅ Yes / ❌ No |
 |Is data being stored in the region you use it | ✅ Yes / ❌ No|
 |Do we have a Xebia license / managed solution for this tool | ✅ Yes / ❌ No|
 |Tools used in workflow| Links to tool pages for these tools |
