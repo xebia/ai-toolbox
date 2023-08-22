@@ -1,5 +1,5 @@
 ---
-title: Creating an Annotated speaker deck for training purposestions from scratch
+title: Creating an Annotated speaker deck for training purposes from scratch
 weight: 4
 categories: [Presentation]
 tags: [PowerPoint, SlackGPT, WhisperAI]
