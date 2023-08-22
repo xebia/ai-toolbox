@@ -4,7 +4,7 @@ weight: 4
 categories: [Presentation]
 tags: [PowerPoint, SlackGPT, WhisperAI]
 description: >
-  How can you create a PowerPoint deck with speaker notesm so your presentation or training can be redelivered?
+  How can you create a PowerPoint deck with speaker notes so your presentation or training can be redelivered?
 ---
 
 |Responsible AI Checklist|
@@ -18,12 +18,12 @@ description: >
 |Tools used in workflow | [SlackGPT](/docs/ai-tools/slackgpt), [Whisper AI](/docs/ai-tools/whisper) |
 
 ## Introduction
-When you create a PowerPoint deck that can be used in a training or other sort of multi-delivery, it is hard to capture the story you wnat to convey in slides only. What do ou tell at every slide, what are the talking points and what story line do you want to follow. When you deliver the presentation yourself, this is doable, but what if someone else needs to use your deck? Or you deliver a training deck to a customer. For example, a customer wants a deck they can use for training their people. Then you want to annotate the slides with speaker notes, the story you want to tell so that people can read it, and the talking points so people can create their own story without losing the storyline.
+When you create a PowerPoint deck that can be used in a training or other sort of multi-delivery, it is hard to capture the story you want to convey in slides only. What do ou tell at every slide, what are the talking points and what story line do you want to follow. When you deliver the presentation yourself, this is doable, but what if someone else needs to use your deck? Or you deliver a training deck to a customer. For example, a customer wants a deck they can use for training their people. Then you want to annotate the slides with speaker notes, the story you want to tell so that people can read it, and the talking points so people can create their own story without losing the storyline.
 
 No better way to capture this by recording the presentation right? Right! Bu that does not really scale well when preparing or delivering. So you want your story in the speaker notes.. But that is a lot of work! Yes indeed. And that is where this workflow comes in
 
 ## Step 1: Deliver your presentation to your recording device
-Deliver the presentation. On Windows, use the audio recorder and deliver your story as you would do it in a training or presentation. Start every new slide with <Slide 1>, <Slide 2 
+Deliver the presentation. On Windows, use the audio recorder and deliver your story as you would do it in a training or presentation. Start every new slide with <Slide 1>, <Slide 2> 
 
 ## Step 2: Create a transcript with Whisper AI
 The audio file, wav, m4a etc has all the content. Install WhisperAI and run the tool by using the commandline
